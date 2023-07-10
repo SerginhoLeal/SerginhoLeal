@@ -7,11 +7,13 @@
   - Escolhas para minha vida<br/>
      - 🥋 Krav Maga
      - 🏋️‍♀️ Bodybuilder
-     - 🤸‍♂️ Calisthenics
-     - 🚶‍♂️ Trail in Minas Gerais
+     - 🤸‍♂️ Calistenia
+     - 🚶‍♂️ Trilha em Minas Gerais
      - 👨‍💻 Rocketseat
-     - 📘 Cotemig College
+     - 📘 Faculdade Cotemig
      - 🌐 KNN IDIOMAS
+     - 📘 Leitura
+       - Recomendações: A Arte da Sabedoria | A Arte da Guerra
 
 <br>
 
