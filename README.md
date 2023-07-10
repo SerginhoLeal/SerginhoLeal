@@ -12,9 +12,7 @@
      - 👨‍💻 Rocketseat
      - 📘 Faculdade Cotemig
      - 🌐 KNN IDIOMAS
-     - 📘 Leitura
-       - Recomendações: A Arte da Sabedoria | A Arte da Guerra
-
+     - 📘 Leitura: A Arte da Sabedoria | A Arte da Guerra
 <br>
 
 ## Contact
