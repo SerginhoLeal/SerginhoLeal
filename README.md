@@ -1,13 +1,17 @@
 <img align="right" height="400em" src="https://serginholeal.github.io/portfolio/assets/presentation_Image.5819a209.png"/>
 <h1 align="left">Opa, Sergio Leal aqui</h1>
 
-  - Sou um desenvolvedor web & mobile com os frameworks React, React-Native e Node.js.
+  - Desenvolvedor web & mobile com os frameworks React e React-Native.
+  - Dois 2 anos e 4 meses de experiência na Compass.UOL.
 
-  - Possuo dois 2 anos e 4 meses de experiência com desenvolvimento web com React e mobile com React-Native.
-
-  - Sigo firme na academia, faculdade e nos cursos da Udemy, Rocketseat e KNN IDIOMAS.
-
-  - Atualmente tenho interesse em trabalhar com o desenvolvimento mobile e web no formato remoto para eu conseguir auxiliar com o meu desenvolvimento pessoal, mas estou aberto para novas idéias no meu formato de trabalho.
+  - Escolhas para minha vida<br/>
+     - 🥋 Krav Maga
+     - 🏋️‍♀️ Bodybuilder
+     - 🤸‍♂️ Calisthenics
+     - 🚶‍♂️ Trail in Minas Gerais
+     - 👨‍💻 Rocketseat
+     - 📘 Cotemig College
+     - 🌐 KNN IDIOMAS
 
 <br>
 
