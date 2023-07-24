@@ -1,5 +1,5 @@
 <img align="right" height="400em" src="https://serginholeal.github.io/portfolio/assets/presentation_Image.5819a209.png"/>
-<h1 align="left">Opa, Sergio Leal aqui</h1>
+<h1 align="left">Prazer, Sergio Leal aqui</h1>
 
   - Desenvolvedor web & mobile com os frameworks React e React-Native.
   - Dois 2 anos e 4 meses de experiência na Compass.UOL.
